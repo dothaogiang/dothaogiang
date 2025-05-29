@@ -17,19 +17,18 @@
 
 ## 🧠 Skills & Tools
 
-- 👨‍💻 Programming: Python | SQL | C | R
-- 🧪 ML/AI: Scikit-learn | TensorFlow | PyTorch | Hugging Face
+- 👨‍💻 Programming: Python | SQL| R
+- 🧪 ML/AI: Scikit-learn | TensorFlow | PyTorch
 - 📊 Data: Pandas | NumPy | Spark | Power BI
-- ☁️ Cloud: AWS | GCP | Docker | Airflow
-- 🧹 NLP: Underthesea | Gensim | Word2Vec | spaCy
+- ☁️ Cloud: AWS | Docker
 
 ---
 
 ## 📫 How to Reach Me
 
-- 📧 Email: yourname@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐱 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 📧 Email: dothaogiang2004@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/dothaogiang27022004]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/dothaogiang27022004/))  
+- 🐱 GitHub: [github.com/dothaogiang](https://github.com/dothaogiang)
 
 <p align="left">
   <a href="mailto:yourname@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
