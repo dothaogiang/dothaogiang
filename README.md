@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I’m <span style="color:#f7797d">Kira</span>!</h1>
+<h1 align="center">👋 Hi there, I’m <span style="color:#f7797d">Do Thao Giang</span>!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=500&height=80&lines=💡+Turning+data+into+insights;🤖+Building+AI+to+solve+real-world+problems;🎯+ML+enthusiast+with+a+creative+mind!" alt="Typing animation">
