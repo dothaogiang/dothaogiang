@@ -40,9 +40,8 @@
 
 ## 📌 Featured Projects
 
-- 🧠 [AI Diagnosis System for Cardiology](https://github.com/yourusername/ai-heart)  
-- 📈 [Stock Trend Prediction using LSTM](https://github.com/yourusername/lstm-stock-trend)  
-- 🌐 [Vietnamese News Topic Classification](https://github.com/yourusername/news-topic-vn)
+- 🧠 [Survival Rate Prediction for Brain Tumor Patients Using Machine Learning](https://github.com/dothaogiang/machine-learning) 
+- 🌐 [Video-based Fire Detection System](https://github.com/dothaogiang/datamining)
 
 ---
 
