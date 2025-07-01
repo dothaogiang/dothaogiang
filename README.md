@@ -54,8 +54,8 @@ Always learning — from algorithms and cloud computing to real-world applicatio
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dothaogiang&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dothaogiang&theme=radical"/>
 </p>
 
 ---
